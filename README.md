@@ -1,7 +1,6 @@
 # clicker
 Jeu développer en PHP dans un cadre personnel.
 J'ai choisis de ne pas le faire en javascript pour faire tout de moi même sans m'inspirer du net.
-Je demande à tous les utilisateurs de GitHub qui ont téléchargé mon projet et souhaitent le mettre en ligne d'inscrire mon nom dans votre code.
 
 ----Comment le déployer sur sa machine----
 

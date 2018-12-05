@@ -1,0 +1,94 @@
+body 
+	{
+	
+	}
+
+#back
+	{
+	background-image: url('./image/trianglify2.png');
+	background-repeat: no-repeat;
+	height: 100%;
+	width: 100%;
+	-webkit-transition: all 1s ease;
+	-moz-transition: all 1s ease;
+	-ms-transition: all 1s ease;
+	-o-transition: all 1s ease;
+	transition: all 1s ease;
+	}
+
+#deco
+	{
+	float: left;
+	width: 150px;
+	height: 150px;
+	text-align: center;
+	font-size: 20px;
+	display: block;
+	}
+h1
+	{	
+	margin-left: 45%;
+	}
+
+#phrase_score
+	{
+	display: block; 
+	text-align: center;
+	font-family: arial;
+	font-size: 50px;
+	}
+
+#tableau_score
+	{
+	display: inline-block; 
+	margin-top: 7%;	
+	font-family: arial;
+	font-size: 30px;
+	margin-top: -25%;
+	float: left;
+	}
+	
+table
+	{
+	font-size: 15px;
+	border-collapse: collapse;
+	}
+
+table, tr ,td,th
+	{
+	text-align: left;
+	border: 1px solid black;
+	}
+th
+	{
+	text-align: center;
+	}
+td,th
+	{
+	width: 100px;
+	}
+
+
+#bg
+	{
+	display: block; 
+	height: 445px;
+	width: 400px;
+	background-image: url('../image/jm.jpg');
+	border-radius: 100%;
+	-webkit-animation:spin 7s linear infinite;
+    -moz-animation:spin 7s linear infinite;
+    animation:spin 7s linear infinite;
+	}
+	@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+	@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+	@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+
+
+#zoom:hover
+	{
+	-webkit-transform:scale(1.10);
+	-moz-transform:scale(1.10);
+	-ms-transform:scale(1.10);
+	-o-transform:scale(1.10);
+	transform:scale(1.10);

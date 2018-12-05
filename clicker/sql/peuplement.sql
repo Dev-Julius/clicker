@@ -1,0 +1,9 @@
+begin transaction;
+
+/*insert...*/
+commit;
+
+
+
+
+

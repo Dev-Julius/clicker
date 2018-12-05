@@ -13,3 +13,5 @@ Je demande à tous les utilisateurs de GitHub qui ont téléchargé mon projet e
 6) Accéder à votre répertoire sur le navigateur et profiter du jeu.
 
 Langages: HTML5, CSS3, PHP, SQL, Javascript, Ajax.
+
+PS: Le projet en ai à sa première version. Je prévois de le continuer en important sa propre image pour son clicker.
